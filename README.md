@@ -21,5 +21,5 @@
 
 
 * [Bootstrap, from Twitter](ttp://twitter.github.com/bootstrap/)
-* [HTML5]()
-* [More Credits to Come]()
+* [HTML5]
+* [More Credits to Come]
